@@ -33,7 +33,7 @@ var tabPresets = {
     },
     default: {
         name: 'Art Class',
-        icon: '/assets/images/icon.png'
+        icon: '/assets/images/unnamed.gif'
     }
 }
 
